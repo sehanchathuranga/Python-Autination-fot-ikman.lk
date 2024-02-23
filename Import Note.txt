@@ -1,0 +1,8 @@
+Import note,
+
+1). Navigate to ikman.lk
+2). Searches for the motorcycle model "ct100"
+3). captures the required information from the first 50 results, but there are only 26 results.
+
+Then, for the first and second points, try to do it. But I do not know why this method is used. I used to go to Chrome and search for an item manual, get that URL, and then work on it. 
+
